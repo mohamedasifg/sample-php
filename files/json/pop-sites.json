@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.651944, 50.079889]
+      },
+      "properties": {
+        "name": "OT Frankfurt PoP",
+        "slug": "ot-frankfurt-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.900056, 52.323111]
+      },
+      "properties": {
+        "name": "OT Amsterdam PoP",
+        "slug": "ot-amsterdam-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.147147, 51.487413]
+      },
+      "properties": {
+        "name": "OT London PoP",
+        "slug": "ot-london-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.393187, 43.311074]
+      },
+      "properties": {
+        "name": "OT Marseille PoP",
+        "slug": "ot-marseille-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.789751, 1.295707]
+      },
+      "properties": {
+        "name": "OT Singapore PoP",
+        "slug": "ot-singapore-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.255746, 34.048059]
+      },
+      "properties": {
+        "name": "OT Los Angeles PoP",
+        "slug": "ot-los-angeles-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.186568, 25.026662]
+      },
+      "properties": {
+        "name": "OT Dubai PoP",
+        "slug": "ot-dubai-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.127656, 23.659727]
+      },
+      "properties": {
+        "name": "OT Seeb PoP",
+        "slug": "ot-seeb-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.127656, 23.659727]
+      },
+      "properties": {
+        "name": "OT TCC PoP",
+        "slug": "ot-tcc-pop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [57.886509, 23.677905]
+      },
+      "properties": {
+        "name": "OT Bluecity PoP",
+        "slug": "ot-bluecity-pop"
+      }
+    }
+  ]
+}
